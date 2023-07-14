@@ -15,7 +15,7 @@
 
 namespace benchmark {
 namespace {
-
+// kilo, Mega, Giga, Tera, Peta, Exa, Zetta, Yotta.
 const char* const kBigSIUnits[] = {"k", "M", "G", "T", "P", "E", "Z", "Y"};
 // Kibi, Mebi, Gibi, Tebi, Pebi, Exbi, Zebi, Yobi.
 const char* const kBigIECUnits[] = {"Ki", "Mi", "Gi", "Ti",
